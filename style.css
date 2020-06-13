@@ -1,0 +1,21 @@
+body{
+    display: flex;
+}
+/*display flex makes it all horizontal*/
+
+.red-box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.blue-box{
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+}
+.yellow-box{
+    width: 100px;
+    height: 100px;
+    background-color:yellow;
+}
